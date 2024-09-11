@@ -42,8 +42,6 @@ This eliminates manual work and provides immediate, actionable insights into bat
    cd battery-management-plotter
 
 
-  ## 📦 Installation
-
 2. **Set up the virtual environment** (optional but recommended):
    ```bash
    python -m venv venv
